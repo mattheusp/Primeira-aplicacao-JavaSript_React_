@@ -7,5 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("food")
 public class FoodController {
-    public void
+    
+    public void getAll(){
+
+    }
 }
